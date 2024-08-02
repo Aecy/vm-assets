@@ -1,2 +1,3 @@
-"# vm-assets" 
-"# vm-assets" 
+# FiveM / Maved - Assets
+
+Still get updated from by maved-assets.
